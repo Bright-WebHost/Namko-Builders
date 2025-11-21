@@ -78,8 +78,7 @@ export default function Banner() {
             playsInline
             className="video-desktop"
           >
-            {/* <source src="/v-banner.mp4" type="video/mp4" /> */}
-            <source src="/assets/img/vedio/v-banner.mp4" type="video/mp4" />
+            <source src="./v-banner.mp4" type="video/mp4" />
             Your browser does not support the video tag.
           </video>
 
